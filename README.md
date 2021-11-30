@@ -1,1 +1,0 @@
-# data-science-intern-challenge
